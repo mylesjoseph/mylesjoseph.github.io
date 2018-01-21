@@ -14,7 +14,7 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
   font-style: normal;
 }
 html {
-  background-color: black;
+  background-color: #080317;
 }
 body {
   font-family: "Fira Mono", monospace;
@@ -23,8 +23,12 @@ body {
   color: #7b7b7b;
   font-weight: 300;
   letter-spacing: .05em;
-  padding-left: 150px;
-  padding-right: 150px;	
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-bottom: 0px;
+  margin-left:  150px;
+  margin-right: 150px;
+  height: 1000px
 }
 
 ::-webkit-selection {
