@@ -14,13 +14,14 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
   font-style: normal;
 }
 html {
-  background-color: #080317;
+  background-color: #06030e;
 }
 body {
   font-family: "Fira Mono", monospace;
   font-size: 12px;
   line-height: 16px;
   color: #7b7b7b;
+  background-color: #f7f7f7;
   font-weight: 300;
   letter-spacing: .05em;
   padding-left: 50px;
