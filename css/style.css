@@ -25,10 +25,13 @@ body {
   letter-spacing: .05em;
   padding-left: 50px;
   padding-right: 50px;
+  padding-top: 1px;
   margin-bottom: 0px;
-  margin-left:  150px;
-  margin-right: 150px;
-  height: 1000px
+  margin-left:  250px;
+  margin-right: 250px;
+  margin-top: 50px;
+  height: 1000px;
+  border-radius: 5px;
 }
 
 ::-webkit-selection {
