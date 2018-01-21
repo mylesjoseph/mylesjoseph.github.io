@@ -13,6 +13,9 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
   font-weight: normal;
   font-style: normal;
 }
+html {
+  background-color: black;
+}
 body {
   font-family: "Fira Mono", monospace;
   font-size: 12px;
