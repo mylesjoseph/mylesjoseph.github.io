@@ -3,9 +3,9 @@
 // init Masonry
 var $grid = $('.grid').masonry({
   itemSelector: '.grid-item',
+  columnWidth: '.grid-sizer',
   percentPosition: true,
   gutter: 10,
-  columnWidth: '.grid-sizer'
 });
 // layout Masonry after each image loads
 $grid.imagesLoaded().progress( function() {
