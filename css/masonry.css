@@ -24,6 +24,10 @@ html { overflow-y: scroll; }
   width: 30%;
 }
 
+.gutter-sizer {
+  width: 5%;
+}
+
 .grid-item {
   float: left;
   width: 30%;
