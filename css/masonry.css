@@ -27,7 +27,7 @@ body { font-family: sans-serif; }
 
 .grid-item {
   float: left;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
   border: 2px solid #333;
   border-color: hsla(0, 0%, 0%, 0.5);
   border-radius: 5px;
