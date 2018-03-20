@@ -21,11 +21,11 @@ html { overflow-y: scroll; }
 /* ---- .grid-item ---- */
 
 .grid-sizer{
-  width: 32%;
+  width: 33%;
 }
 
 .gutter-sizer {
-  width: 2%;
+  width: 0.5%;
 }
 
 .grid-item {
