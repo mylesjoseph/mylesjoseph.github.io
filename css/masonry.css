@@ -20,13 +20,13 @@ html { overflow-y: scroll; }
 
 /* ---- .grid-item ---- */
 
-.grid-sizer,
-.grid-item {
+.grid-sizer{
   width: 33%;
 }
 
 .grid-item {
   float: left;
+  width: 33%;
   margin-bottom: 10px;
   border: 0px solid #333;
   border-color: hsla(0, 0%, 0%, 0.5);
