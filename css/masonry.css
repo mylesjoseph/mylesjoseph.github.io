@@ -9,6 +9,8 @@ body { font-family: sans-serif; }
 
 .grid {
   background: #DDD;
+  margin-left: auto;
+   margin-right: auto;
 }
 
 /* clear fix */
