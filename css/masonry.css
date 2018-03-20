@@ -3,14 +3,12 @@
 /* force scrollbar */
 html { overflow-y: scroll; }
 
-body { font-family: sans-serif; }
 
 /* ---- grid ---- */
 
 .grid {
   background: #DDD;
-  margin-left: auto;
-   margin-right: auto;
+
 }
 
 /* clear fix */
@@ -24,13 +22,13 @@ body { font-family: sans-serif; }
 
 .grid-sizer,
 .grid-item {
-  width: 33.333%;
+  width: 33%;
 }
 
 .grid-item {
   float: left;
   margin-bottom: 10px;
-  border: 1px solid #333;
+  border: 0px solid #333;
   border-color: hsla(0, 0%, 0%, 0.5);
   border-radius: 1px;
 }
