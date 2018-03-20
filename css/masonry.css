@@ -21,16 +21,16 @@ html { overflow-y: scroll; }
 /* ---- .grid-item ---- */
 
 .grid-sizer{
-  width: 30%;
+  width: 32%;
 }
 
 .gutter-sizer {
-  width: 5%;
+  width: 1%;
 }
 
 .grid-item {
   float: left;
-  width: 30%;
+  width: 32%;
   margin-bottom: 10px;
   border: 0px solid #333;
   border-color: hsla(0, 0%, 0%, 0.5);
